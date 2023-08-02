@@ -63,7 +63,6 @@ local function OnUseVIP(event, player, item, target)
         player:GossipClearMenu()
         for i, v in pairs(VIP.Config.Actions) do
             if v[1] then
-                print(v[1])
                 player:GossipMenuAddItem( 0, v[2], 0, v[3] )
             end
         end
