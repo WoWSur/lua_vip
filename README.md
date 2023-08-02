@@ -1,4 +1,6 @@
 # lua_vip
+## Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mIO8D63RGog/0.jpg)](https://www.youtube.com/watch?v=mIO8D63RGog)
 
 ## Requirements
 - mod-eluna: https://github.com/azerothcore/mod-eluna
